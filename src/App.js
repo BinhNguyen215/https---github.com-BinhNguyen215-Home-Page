@@ -1,5 +1,7 @@
 import logo from './logo.svg';
-import './App.css';
+// import './App.css';
+import Home from "./Pages/Home/index";
+import "./Sass/_index.scss";
 
 function App() {
   return (
